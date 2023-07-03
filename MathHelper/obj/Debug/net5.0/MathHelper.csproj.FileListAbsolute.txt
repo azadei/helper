@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\MathHelper\MathHelper\bin\Debug\net5.0\MathHelper.exe
+C:\Users\user\Desktop\MathHelper\MathHelper\bin\Debug\net5.0\MathHelper.deps.json
+C:\Users\user\Desktop\MathHelper\MathHelper\bin\Debug\net5.0\MathHelper.runtimeconfig.json
+C:\Users\user\Desktop\MathHelper\MathHelper\bin\Debug\net5.0\MathHelper.runtimeconfig.dev.json
+C:\Users\user\Desktop\MathHelper\MathHelper\bin\Debug\net5.0\MathHelper.dll
+C:\Users\user\Desktop\MathHelper\MathHelper\bin\Debug\net5.0\MathHelper.pdb
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.AssemblyInfo.cs
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.dll
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\refint\MathHelper.dll
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.pdb
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\MathHelper.genruntimeconfig.cache
+C:\Users\user\Desktop\MathHelper\MathHelper\obj\Debug\net5.0\ref\MathHelper.dll
